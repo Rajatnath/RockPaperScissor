@@ -89,6 +89,10 @@ header > h1 {
     background: white;
 }
 
+.choice.choice:click {
+    background: white;
+}
+
 #action-message {
     color: white;
     text-align: center;
