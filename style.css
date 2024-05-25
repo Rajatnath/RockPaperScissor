@@ -28,6 +28,7 @@ header > h1 {
     text-align: center;
 }
 
+
 .score-board {
     text-align: center;
     margin: 20px auto;
@@ -94,3 +95,23 @@ header > h1 {
     font-weight: bold;
     font-size: 20px;
 }
+
+.green-glow {
+    border: 4px solid #4dcc7d;
+    box-shadow: 0 0 10px #31b43a;
+    background: #4dcc7d;
+}
+
+.red-glow {
+    border: 4px solid #fc121b;
+    box-shadow: 0 0 10px #d01115;
+    background: #fc121b;
+}
+
+
+.gray-glow {
+    border: 4px solid #464647;
+    box-shadow: 0 0 10px #25292b;
+    background: #464647;
+}
+
